@@ -1,0 +1,2 @@
+具备拆机指标，对指标进行结构化的基本能力
+具备sql、excel等进行数据分析的能力，以及具备arcgis,qgis等空间数据可视化以及使用Matplotlib/Seaborn/Tebleau进行基础数据可视化
